@@ -1,0 +1,11 @@
+{
+  "projectPath": "/media/schr3da/SSD/fh/Interculture/Assignment_2",
+  "title": "LaTeX-Plus Project",
+  "root": "Masterarbeit.tex",
+  "program": "pdflatex",
+  "latexmkOptions": "-bibtex -pdf -shell-escape",
+  "output": "build",
+  "openOutput": "true",
+  "postAction": "link",
+  "postPath": ""
+}

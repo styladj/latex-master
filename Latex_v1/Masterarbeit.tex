@@ -1,0 +1,155 @@
+ \documentclass{scrreprt}
+\usepackage[utf8]{inputenc}
+\usepackage{blindtext, xcolor}
+\usepackage{comment}
+\usepackage{enumerate}
+\usepackage{multirow}
+\usepackage[shortlabels]{enumitem}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{svg}
+%\usepackage{glossaries}
+\usepackage[acronym,numberedsection]{glossaries}
+\usepackage{listings}
+\usepackage{color}
+% deutsche Silbentrennung
+%\usepackage[ngerman]{babel}
+% fuer Stichwortverzeichnis
+\usepackage{makeidx}
+\usepackage{marvosym}
+\usepackage{scrpage2}
+\usepackage{url}
+\usepackage{setspace}
+\onehalfspacing
+
+\renewcommand*{\chapterheadstartvskip}{\vspace*{0cm}}
+% http://tex.stackexchange.com/questions/19738/why-doesnt-pagestyleempty-work-on-the-first-page-of-a-chapter
+\renewcommand*\chapterpagestyle{scrheadings}
+
+%\restylefloat{table}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+\definecolor{gray}{rgb}{0.4,0.4,0.4}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.6}
+\definecolor{cyan}{rgb}{0.0,0.6,0.6}
+
+\lstset{frame=tb,
+	captionpos=b,
+	language=Java,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+
+\lstdefinelanguage{XML}
+{
+	morestring=[b]",
+	morestring=[s]{>}{<},
+	morecomment=[s]{<?}{?>},
+	stringstyle=\color{black},
+	identifierstyle=\color{darkblue},
+	keywordstyle=\color{cyan},
+	morekeywords={xmlns,version,type}% list your attributes here
+}
+
+% Umbenennung einer Einträge
+\renewcommand\tablename{Tabelle}
+\renewcommand{\figurename}{Abbildung}
+%With babel (and English as language):
+%\addto\captionsenglish{\renewcommand{\figurename}{Fig.}}
+\renewcommand\bibname{\section{Literaturverzeichnis}}
+\renewcommand*\contentsname{Inhaltsverzeichnis}
+%\renewcommand{\glossaryname}{Sachwortverzeichnis}
+\renewcommand{\indexname}{\section{Sachwortverzeichnis}}
+\renewcommand{\acronymname}{\section{Abkürzungsverzeichnis}}
+\renewcommand{\listfigurename}{\section{Abbildungsverzeichnis}}
+\renewcommand{\listtablename}{\section{Tabellenverzeichnis}}
+\renewcommand\lstlistingname{Listing}
+\renewcommand\lstlistlistingname{\section{Listingverzeichnis}}
+
+% Damit auch subsubsections nummeriert werden und im ToC auftauchen
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{2}
+
+\makeglossaries
+\makeindex
+\input{Grundstruktur/Abkuerzungen}
+\input{Grundstruktur/Sachwoerter}
+\input{Grundstruktur/Kopf-und-Fusszeile}
+%\input{kopf-und-fusszeile2}
+\begin{document}
+% FOLGENDE ZEILE KANN EINEN FEHLER PRODUZIEREN!
+% Die Zeile soll bewirken, dass auf der Titelseite keine
+% Seitennummer angegeben wird. Falls das so nicht funktioniert,
+% muss ein anderer Workaround herhalten oder die Fußziele in
+% zwei Varianten angelegt werden.
+% Die folgende Zeile muss auskommentiert werden, damit auf der Titelseite KEINE Seitenzahl angezeigt wird.
+%\pagenumbering{none}
+\input{Grundstruktur/Titelseite}
+\pagenumbering{Roman}
+\setcounter{page}{1}
+\input{Grundstruktur/Vorwort}
+\input{Grundstruktur/Kurzzusammenfassung}
+\input{Grundstruktur/Abstract}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+\input{Grundstruktur/Einleitung}
+\input{Grundstruktur/Grundlagen}
+\input{Grundstruktur/Vorgehensweise}
+\input{Grundstruktur/EmpirischerTeil}
+\input{Grundstruktur/ErgebnisseUndSchlussfolgerungen}
+%	\begin{comment}
+
+\input{Grundstruktur/Zusammenfassung}
+%\chapter{Verzeichnisse}
+\cleardoublepage
+%\appendix
+%	\end{comment}
+\chapter{Verzeichnisse}
+%http://stackoverflow.com/questions/1243342/how-to-avoid-a-page-break-before-start-of-bibliography
+\begingroup
+\let\clearpage\relax
+\bibliographystyle{plain}
+\bibliography{References}
+\endgroup
+
+%\bibliography{References}
+\begingroup
+\let\clearpage\relax
+\listoffigures
+\endgroup
+
+\begingroup
+\let\clearpage\relax
+\listoftables
+\endgroup
+
+\begingroup
+\let\clearpage\relax
+\lstlistoflistings
+\endgroup
+
+% Optional ein Sachwortverzeichnis
+%\newpage
+%\printglossary[type=\acronymtype]
+%\addcontentsline{toc}{section}{Stichwortverzeichnis}
+%\clearpage
+%\thispagestyle{scrheadings}
+%\printindex
+%\printglossary
+\input{Grundstruktur/EidesstattlicheErklaerung}
+\end{document}

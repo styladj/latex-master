@@ -1,0 +1,349 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.19)  28 OCT 2017 10:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Titelseite.tex
+(./Titelseite.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+<argument> \undefinedpagestyle 
+                               
+l.2 	\thispagestyle{scrheadings}
+                                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \noindent
+             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.8 \vspace*{0.15cm}\text
+                         {Fachhochschule Burgenland GmbH}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no F in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no B in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no H in font nullfont!
+! Undefined control sequence.
+l.10 \vspace*{0.15cm}\text
+                          {Campus 1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no C in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 1 in font nullfont!
+! Undefined control sequence.
+<recently read> \text 
+                      
+l.12 \text
+          {A-7000 Eisenstadt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \begin{center}
+                     % Diplomarbeit ODER Magisterarbeit ODER Dissertation
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 15--15
+[] 
+ []
+
+! Undefined control sequence.
+l.16     \Huge
+              {\textbf{\textsf{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for OML+cmss on input line 18.
+
+LaTeX Font Info:    No file OMLcmss.fd. on input line 18.
+
+LaTeX Font Warning: Font shape `OML/cmss/bx/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 18.
+
+
+Overfull \hbox (29.11122pt too wide) in paragraph at lines 18--20
+ \OML/cmss/bx/n/10 <<\OT1/cmss/bx/n/10 Ti- 
+ []
+
+
+Overfull \hbox (11.70837pt too wide) in paragraph at lines 18--20
+ \OT1/cmss/bx/n/10 tel 
+ []
+
+
+Overfull \hbox (14.4445pt too wide) in paragraph at lines 18--20
+ \OT1/cmss/bx/n/10 der 
+ []
+
+
+Overfull \hbox (14.7223pt too wide) in paragraph at lines 18--20
+ \OT1/cmss/bx/n/10 Ar- 
+ []
+
+
+Overfull \hbox (33.18066pt too wide) in paragraph at lines 18--20
+ \OT1/cmss/bx/n/10 beit\OML/cmss/bx/n/10 >> 
+ []
+
+! Undefined control sequence.
+l.21     \Large
+               {\textsf{\textbf{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (22.91124pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 Mas- 
+ []
+
+
+Overfull \hbox (16.54175pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 ter- 
+ []
+
+
+Overfull \hbox (12.3334pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 ar- 
+ []
+
+
+Overfull \hbox (17.62506pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 beit 
+ []
+
+
+Overfull \hbox (14.09729pt too wide) in paragraph at lines 25--25
+ []\OT1/cmss/bx/n/10 zur 
+ []
+
+
+Overfull \hbox (13.80563pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 Er- 
+ []
+
+
+Overfull \hbox (17.0834pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 lan- 
+ []
+
+
+Overfull \hbox (22.22232pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 gung 
+ []
+
+
+Overfull \hbox (14.93895pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 des 
+ []
+
+
+Overfull \hbox (45.32797pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 akademis- 
+ []
+
+
+Overfull \hbox (21.2223pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 chen 
+ []
+
+
+Overfull \hbox (31.2446pt too wide) in paragraph at lines 25--25
+ \OT1/cmss/bx/n/10 Grades 
+ []
+
+
+Overfull \hbox (32.11961pt too wide) in paragraph at lines 25--26
+ []\OT1/cmss/bx/n/10 Master 
+ []
+
+
+Overfull \hbox (8.86116pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 of 
+ []
+
+
+Overfull \hbox (17.2223pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 Sci- 
+ []
+
+
+Overfull \hbox (20.7223pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 ence 
+ []
+
+
+Overfull \hbox (8.16669pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 in 
+ []
+
+
+Overfull \hbox (15.69452pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (11.72227pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (23.22232pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (13.66672pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (29.3335pt too wide) in paragraph at lines 25--26
+ \OT1/cmss/bx/n/10 (MSc) 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 31.
+
+LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 34.
+
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+
+Overfull \hbox (266.51422pt too wide) in paragraph at lines 31--48
+[] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> Titelseite.tex
+                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 29 strings out of 493014
+ 408 string characters out of 6133350
+ 55601 words of memory out of 5000000
+ 3667 multiletter control sequences out of 15000+600000
+ 4547 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 19i,7n,14p,120b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
