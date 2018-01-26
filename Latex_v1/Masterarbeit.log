@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.19)  3 NOV 2017 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.19)  26 JAN 2018 21:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -990,34 +990,43 @@ Package scrpage2 Warning: seems you are using a very small headheight.
 (scrpage2)                A better solution would be to use typearea package.
 
 (./Grundstruktur/Titelseite.tex
-LaTeX Font Info:    Try loading font information for OML+cmss on input line 20.
+LaTeX Font Info:    Try loading font information for OML+cmss on input line 18.
 
-LaTeX Font Info:    No file OMLcmss.fd. on input line 20.
+LaTeX Font Info:    No file OMLcmss.fd. on input line 18.
 
 
 LaTeX Font Warning: Font shape `OML/cmss/bx/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 20.
+(Font)              for symbol `textless' on input line 18.
 
 
 LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 36.
+(Font)              for symbol `textless' on input line 34.
 
-[1
+<images/FH-burgenland-logo_white.png, id=1, 233.37187pt x 132.495pt>
+File: images/FH-burgenland-logo_white.png Graphic file (type png)
+
+<use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
+ 49.
+(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
+
+Overfull \vbox (36.03429pt too high) has occurred while \output is active []
+
+
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 \openout4 = `Masterarbeit.ist'.
 
 
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./Grundstruktur/Vorwort.tex
+ <./images/FH-burgenland-logo_white.png>]) (./Grundstruktur/Vorwort.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 
  []
 
 ) (./Grundstruktur/Kurzzusammenfassung.tex
-<images/FH-burgenland-logo_white.png, id=11, 233.37187pt x 132.495pt>
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
 
 <use images/FH-burgenland-logo_white.png>
@@ -1028,7 +1037,7 @@ Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
 
-[1 <./images/FH-burgenland-logo_white.png>]) (./Grundstruktur/Abstract.tex
+[1]) (./Grundstruktur/Abstract.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--1
 
  []
@@ -1315,7 +1324,7 @@ Here is how much of TeX's memory you used:
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Masterarbeit.pdf (14 pages, 135739 bytes).
+Output written on Masterarbeit.pdf (14 pages, 133797 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
