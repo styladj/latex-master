@@ -95,15 +95,15 @@
 % Seitennummer angegeben wird. Falls das so nicht funktioniert,
 % muss ein anderer Workaround herhalten oder die Fußziele in
 % zwei Varianten angelegt werden.
-% Die folgende Zeile muss auskommentiert werden, damit auf der Titelseite KEINE Seitenzahl angezeigt wird.
+\pagenumbering{none}
 \input{Grundstruktur/Titelseite}
 \pagenumbering{Roman}
 \setcounter{page}{1}
-\input{Grundstruktur/Vorwort}
-\input{Grundstruktur/Kurzzusammenfassung}
-\input{Grundstruktur/Abstract}
 \tableofcontents
 \clearpage
+%\input{Grundstruktur/Vorwort}
+\input{Grundstruktur/Kurzzusammenfassung}
+\input{Grundstruktur/Abstract}
 \pagenumbering{arabic}
 \setcounter{page}{1}
 \input{Grundstruktur/Einleitung}
@@ -150,5 +150,8 @@
 %\thispagestyle{scrheadings}
 %\printindex
 %\printglossary
+
+
+\input{Grundstruktur/Anhang}
 \input{Grundstruktur/EidesstattlicheErklaerung}
 \end{document}
