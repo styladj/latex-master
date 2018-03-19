@@ -1,3 +1,5 @@
+\contentsline {chapter}{Kurzfassung}{II}
+\contentsline {chapter}{Abstract}{III}
 \contentsline {chapter}{\numberline {1}Einleitung\cite {LoremIpsum}}{1}
 \contentsline {section}{\numberline {1.1}Problemstellung}{1}
 \contentsline {section}{\numberline {1.2}Zielsetzung}{1}
@@ -18,3 +20,4 @@
 \contentsline {section}{\numberline {7.2}Abbildungsverzeichnis}{7}
 \contentsline {section}{\numberline {7.3}Tabellenverzeichnis}{7}
 \contentsline {section}{\numberline {7.4}Listingverzeichnis}{8}
+\contentsline {chapter}{\numberline {8}Anhang}{9}

@@ -1,33 +1,29 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.19)  26 JAN 2018 21:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.1.19)  13 APR 2017 13:11
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**Masterarbeit.tex
-(./Masterarbeit.tex
-LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrreprt.cls
-Document Class: scrreprt 2016/05/10 v3.20 KOMA-Script document class (report)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2016/05/10 v3.20 KOMA-Script package (KOMA-Script-dependent b
-asics and keyval usage)
+**./Masterarbeit.tex
+(Masterarbeit.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 72 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrreprt.cls"
+Document Class: scrreprt 2016/06/14 v3.21 KOMA-Script document class (report)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrkbase.sty"
+Package: scrkbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2016/05/10 v3.20 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrbase.sty"
+Package: scrbase 2016/06/14 v3.21 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2016/05/10 v3.20 KOMA-Script package (loading files)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrlfile.sty"
+Package: scrlfile 2016/06/14 v3.21 KOMA-Script package (loading files)
 
-Package scrlfile, 2016/05/10 v3.20 KOMA-Script package (loading files)
+Package scrlfile, 2016/06/14 v3.21 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-))) (/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2016/05/10 v3.20 KOMA-Script package (handling toc-files)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\tocbasic.sty"
+Package: tocbasic 2016/06/14 v3.21 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
 )
@@ -40,20 +36,17 @@ Package tocbasic Info: omitting babel extension for `lof'
 Package tocbasic Info: omitting babel extension for `lot'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `lot' on input line 134.
-Package tocbasic Info: defining new hook before heading of `' on input line 160
-5.
+Package tocbasic Info: defining new hook before heading of `' on input line 1606.
 Class scrreprt Info: File `scrsize11pt.clo' used instead of
-(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 226
-5.
+(scrreprt)           file `scrsize11.clo' to setup font sizes on input line 2266.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
-File: scrsize11pt.clo 2016/05/10 v3.20 KOMA-Script font size class option (11pt
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrsize11pt.clo"
+File: scrsize11pt.clo 2016/06/14 v3.21 KOMA-Script font size class option (11pt)
 )
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2016/05/10 v3.20 KOMA-Script package (type area)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\typearea.sty"
+Package: typearea 2016/06/14 v3.21 KOMA-Script package (type area)
 
-Package typearea, 2016/05/10 v3.20 KOMA-Script package (type area)
+Package typearea, 2016/06/14 v3.21 KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -79,7 +72,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 11.0pt
 (typearea)              \footskip       = 47.6pt
 (typearea)              \baselineskip   = 13.6pt
-(typearea)              on input line 1528.
+(typearea)              on input line 1529.
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -95,27 +88,26 @@ Package typearea Info: These are the values describing the layout:
 \scr@dte@subsubsection@maxnumwidth=\skip51
 \scr@dte@paragraph@maxnumwidth=\skip52
 \scr@dte@subparagraph@maxnumwidth=\skip53
-LaTeX Info: Redefining \textsubscript on input line 4769.
+LaTeX Info: Redefining \textsubscript on input line 4780.
 \abovecaptionskip=\skip54
 \belowcaptionskip=\skip55
 \c@pti@nb@sid@b@x=\box27
 \c@figure=\count87
 \c@table=\count88
-Class scrreprt Info: Redefining `\numberline' on input line 5764.
+Class scrreprt Info: Redefining `\numberline' on input line 5801.
 \bibindent=\dimen102
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -351,8 +343,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -393,7 +384,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -417,10 +408,9 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/blindtext/blindtext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 \c@blindtext=\count89
@@ -441,22 +431,21 @@ Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 \c@blind@randommax=\count104
 \c@blind@pangramcount=\count105
 \c@blind@pangrammax=\count106
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count107
@@ -471,88 +460,85 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/comment/comment.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\comment\comment.sty"
 \CommentStream=\write3
-
-Excluding comment 'comment')
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/enumerate.sty
+ Excluding comment 'comment')
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks17
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip56
+\multirow@cntb=\count108
+\multirow@dima=\skip57
 \bigstrutjot=\dimen103
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty"
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip56
+\labelindent=\skip58
 \enit@outerparindent=\dimen104
 \enit@toks=\toks18
 \enit@inbox=\box28
-\enitdp@description=\count108
+\enitdp@description=\count109
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 96.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 )
 \Gin@req@height=\dimen105
 \Gin@req@width=\dimen106
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mathtools.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mathtools.sty"
 Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count109
-\calc@Bcount=\count110
+\calc@Acount=\count110
+\calc@Bcount=\count111
 \calc@Adimen=\dimen107
 \calc@Bdimen=\dimen108
-\calc@Askip=\skip57
-\calc@Bskip=\skip58
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count111
-\calc@Cskip=\skip59
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mhsetup.sty
+\calc@Ccount=\count112
+\calc@Cskip=\skip61
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\mathtools\mhsetup.sty"
 Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/10 v2.15b AMS math features
-\@mathmargin=\skip60
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip62
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen109
-))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen110
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count112
+\inf@bad=\count113
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count113
-\leftroot@=\count114
+\uproot@=\count114
+\leftroot@=\count115
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count115
-\DOTSCASE@=\count116
+\classnum@=\count116
+\DOTSCASE@=\count117
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
@@ -561,15 +547,15 @@ LaTeX Info: Redefining \cdots on input line 518.
 \big@size=\dimen111
 LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
-\macc@depth=\count117
-\c@MaxMatrixCols=\count118
+\macc@depth=\count118
+\c@MaxMatrixCols=\count119
 \dotsspace@=\muskip10
-\c@parentequation=\count119
-\dspbrk@lvl=\count120
+\c@parentequation=\count120
+\dspbrk@lvl=\count121
 \tag@help=\toks20
-\row@=\count121
-\column@=\count122
-\maxfields@=\count123
+\row@=\count122
+\column@=\count123
+\maxfields@=\count124
 \andhelp@=\toks21
 \eqnshift@=\dimen112
 \alignsep@=\dimen113
@@ -578,8 +564,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \totwidth@=\dimen116
 \lineht@=\dimen117
 \@envbody=\toks22
-\multlinegap=\skip61
-\multlinetaggap=\skip62
+\multlinegap=\skip63
+\multlinetaggap=\skip64
 \mathdisplay@stack=\toks23
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
@@ -588,46 +574,42 @@ LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count124
+\g_MT_multlinerow_int=\count125
 \l_MT_multwidth_dim=\dimen118
-\origjot=\skip63
+\origjot=\skip65
 \l_MT_shortvdotswithinadjustabove_dim=\dimen119
 \l_MT_shortvdotswithinadjustbelow_dim=\dimen120
 \l_MT_above_intertext_sep=\dimen121
 \l_MT_below_intertext_sep=\dimen122
 \l_MT_above_shortintertext_sep=\dimen123
 \l_MT_below_shortintertext_sep=\dimen124
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count125
+\c@float@type=\count126
 \float@exts=\toks24
 \float@box=\box31
 \@float@everytoks=\toks25
 \@floatcapt=\box32
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/svg/svg.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\svg\svg.sty"
 Package: svg 2012/09/05 v1.0 SVG inclusion and extraction
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
-\XKV@depth=\count126
+\XKV@depth=\count127
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/subfig/subfig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
 \captionmargin=\dimen125
 \captionmargin@=\dimen126
@@ -638,186 +620,173 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 \caption@hangindent=\dimen131
 )
 Package caption Info: KOMA-Script document class.
-\c@ContinuedFloat=\count127
+\c@ContinuedFloat=\count128
 Package caption Info: float package is loaded.
 )
-\c@KVtest=\count128
-\sf@farskip=\skip64
+\c@KVtest=\count129
+\sf@farskip=\skip66
 \sf@captopadj=\dimen132
-\sf@capskip=\skip65
-\sf@nearskip=\skip66
-\c@subfigure=\count129
-\c@subfigure@save=\count130
-\c@lofdepth=\count131
-\c@subtable=\count132
-\c@subtable@save=\count133
-\c@lotdepth=\count134
-\sf@top=\skip67
-\sf@bottom=\skip68
+\sf@capskip=\skip67
+\sf@nearskip=\skip68
+\c@subfigure=\count130
+\c@subfigure@save=\count131
+\c@lofdepth=\count132
+\c@subtable=\count133
+\c@subtable@save=\count134
+\c@lotdepth=\count135
+\sf@top=\skip69
+\sf@bottom=\skip70
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/import/import.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\import\import.sty"
 Package: import 2009/03/23  v 5.1
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/transparent.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\transparent.sty"
 Package: transparent 2016/05/16 v1.1 Transparency via pdfTeX's color stack (HO)
 
-
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ))
-\SVG@out@width=\skip69
-\SVG@out@height=\skip70
-\c@svgfigure=\count135
+\SVG@out@width=\skip71
+\SVG@out@height=\skip72
+\c@svgfigure=\count136
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/base/glossaries.sty
-Package: glossaries 2016/04/30 v4.23 (NLCT)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries.sty"
+Package: glossaries 2017/01/19 v4.29 (NLCT)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
-Package: mfirstuc 2015/12/17 v2.02 (NLCT)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count136
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\mfirstuc\mfirstuc.sty"
+Package: mfirstuc 2016/07/31 v2.04 (NLCT)
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count137
 )
 \@glsmfirst=\toks28
 \@glsmrest=\toks29
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/textcase/textcase.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\textcase\textcase.sty"
 Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xfor/xfor.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/datatool/datatool-base.sty
-Package: datatool-base 2016/01/18 v2.25 (NLCT)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
+Package: datatool-base 2016/07/28 v2.27 (NLCT)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/substr/substr.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count137
+\c@su@anzahl=\count138
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/datatool/datatool-fp.sty
-Package: datatool-fp 2016/01/18 v2.25 (NLCT)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty"
+Package: datatool-fp 2016/07/28 v2.27 (NLCT)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp.sty"
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/defpattern.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
 Package: defpattern 1994/10/12
-\actioncount=\count138
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-basic.sty
+\actioncount=\count139
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
 Package: fp-basic 1996/05/13
-\FP@xs=\count139
-\FP@xia=\count140
-\FP@xib=\count141
-\FP@xfa=\count142
-\FP@xfb=\count143
-\FP@rega=\count144
-\FP@regb=\count145
-\FP@regs=\count146
-\FP@times=\count147
+\FP@xs=\count140
+\FP@xia=\count141
+\FP@xib=\count142
+\FP@xfa=\count143
+\FP@xfb=\count144
+\FP@rega=\count145
+\FP@regb=\count146
+\FP@regs=\count147
+\FP@times=\count148
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-addons.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
 Package: fp-addons 1995/03/15
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-snap.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
 Package: fp-snap 1995/04/05
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-exp.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
 Package: fp-exp 1995/04/03
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-trigo.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
 Package: fp-trigo 1995/04/14
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-pas.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
 Package: fp-pas 1994/08/29
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-random.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
 Package: fp-random 1995/02/23
-\FPseed=\count148
+\FPseed=\count149
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-eqn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
 Package: fp-eqn 1995/04/03
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-upn.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
 Package: fp-upn 1996/10/21
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fp/fp-eval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks30
-\@dtl@tmpcount=\count149
-\dtl@tmplength=\skip71
-\dtl@sortresult=\count150
-\@dtl@numgrpsepcount=\count151
-\@dtl@datatype=\count152
-\dtl@codeA=\count153
-\dtl@codeB=\count154
-\@dtl@foreach@level=\count155
+\@dtl@tmpcount=\count150
+\dtl@tmplength=\skip73
+\dtl@sortresult=\count151
+\@dtl@numgrpsepcount=\count152
+\@dtl@datatype=\count153
+\dtl@codeA=\count154
+\dtl@codeB=\count155
+\@dtl@foreach@level=\count156
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/base/glossaries-compat
-ible-307.sty
-Package: glossaries-compatible-307 2016/04/30 v4.23 (NLCT)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries-compatible-307.sty"
+Package: glossaries-compatible-307 2017/01/19 v4.29 (NLCT)
 )
-\gls@level=\count156
+\gls@level=\count157
 \@gls@tmpb=\toks31
-\gls@tmplen=\skip72
+\gls@tmplen=\skip74
 \glskeylisttok=\toks32
 \glslabeltok=\toks33
 \glsshorttok=\toks34
 \glslongtok=\toks35
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/styles/glossary-hypern
-av.sty
-Package: glossary-hypernav 2016/04/30 v4.23 (NLCT)
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-hypernav.sty"
+Package: glossary-hypernav 2017/01/19 v4.29 (NLCT)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/styles/glossary-list.s
-ty
-Package: glossary-list 2016/04/30 v4.23 (NLCT)
-\glslistdottedwidth=\skip73
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-list.sty"
+Package: glossary-list 2017/01/19 v4.29 (NLCT)
+\glslistdottedwidth=\skip75
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/styles/glossary-long.s
-ty
-Package: glossary-long 2016/04/30 v4.23 (NLCT)
- (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/longtable.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-long.sty"
+Package: glossary-long 2017/01/19 v4.29 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip74
-\LTright=\skip75
-\LTpre=\skip76
-\LTpost=\skip77
-\LTchunksize=\count157
+\LTleft=\skip76
+\LTright=\skip77
+\LTpre=\skip78
+\LTpost=\skip79
+\LTchunksize=\count158
 \LTcapwidth=\dimen133
 \LT@head=\box33
 \LT@firsthead=\box34
 \LT@foot=\box35
 \LT@lastfoot=\box36
-\LT@cols=\count158
-\LT@rows=\count159
-\c@LT@tables=\count160
-\c@LT@chunks=\count161
+\LT@cols=\count159
+\LT@rows=\count160
+\c@LT@tables=\count161
+\c@LT@chunks=\count162
 \LT@p@ftn=\toks36
 )
 Class scrreprt Info: longtable captions redefined on input line 43.
-\glsdescwidth=\skip78
-\glspagelistwidth=\skip79
+\glsdescwidth=\skip80
+\glspagelistwidth=\skip81
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/styles/glossary-super.
-sty
-Package: glossary-super 2016/04/30 v4.23 (NLCT)
- (/usr/local/texlive/2016/texmf-dist/tex/latex/supertabular/supertabular.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-super.sty"
+Package: glossary-super 2017/01/19 v4.29 (NLCT)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
-\c@tracingst=\count162
+\c@tracingst=\count163
 \ST@wd=\dimen134
-\ST@rightskip=\skip80
-\ST@leftskip=\skip81
-\ST@parfillskip=\skip82
+\ST@rightskip=\skip82
+\ST@leftskip=\skip83
+\ST@parfillskip=\skip84
 \ST@pageleft=\dimen135
 \ST@headht=\dimen136
 \ST@tailht=\dimen137
@@ -830,73 +799,67 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen144
 \ST@pbox=\box37
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/glossaries/styles/glossary-tree.s
-ty
-Package: glossary-tree 2016/04/30 v4.23 (NLCT)
-\glstreeindent=\skip83
-)) (/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count163
+("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-tree.sty"
+Package: glossary-tree 2017/01/19 v4.29 (NLCT)
+\glstreeindent=\skip85
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count164
 \lst@gtempboxa=\box38
 \lst@token=\toks37
-\lst@length=\count164
+\lst@length=\count165
 \lst@currlwidth=\dimen145
-\lst@column=\count165
-\lst@pos=\count166
+\lst@column=\count166
+\lst@pos=\count167
 \lst@lostspace=\dimen146
 \lst@width=\dimen147
-\lst@newlines=\count167
-\lst@lineno=\count168
+\lst@newlines=\count168
+\lst@lineno=\count169
 \lst@maxwidth=\dimen148
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count169
-\lst@skipnumbers=\count170
+\c@lstnumber=\count170
+\lst@skipnumbers=\count171
 \lst@framebox=\box39
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
 File: listings.cfg 2015/06/04 1.6 listings configuration
 ))
 Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/makeidx.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
 Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/marvosym/marvosym.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\marvosym\marvosym.sty"
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/koma-script/scrpage2.sty
-Package: scrpage2 2016/05/10 v3.20 KOMA-Script package (page head and foot)
+("C:\Program Files\MiKTeX 2.9\tex\latex\koma-script\scrpage2.sty"
+Package: scrpage2 2016/06/14 v3.21 KOMA-Script package (page head and foot)
 LaTeX Info: Redefining \pagemark on input line 174.
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
 \glswrite=\write4
 \glo@main@file=\write5
 \openout5 = `Masterarbeit.glo'.
 
-Package glossaries Info: Writing glossary file Masterarbeit.glo on input line 8
-6.
+Package glossaries Info: Writing glossary file Masterarbeit.glo on input line 86.
 \glo@acronym@file=\write6
 \openout6 = `Masterarbeit.acn'.
 
-Package glossaries Info: Writing glossary file Masterarbeit.acn on input line 8
-6.
+Package glossaries Info: Writing glossary file Masterarbeit.acn on input line 86.
 \@indexfile=\write7
 \openout7 = `Masterarbeit.idx'.
 
 
 Writing index file Masterarbeit.idx
-(./Grundstruktur/Abkuerzungen.tex) (./Grundstruktur/Sachwoerter.tex)
-(./Grundstruktur/Kopf-und-Fusszeile.tex) (./Masterarbeit.aux)
+(Grundstruktur/Abkuerzungen.tex) (Grundstruktur/Sachwoerter.tex) (Grundstruktur/Kopf-und-Fusszeile.tex)
+(Masterarbeit.aux)
 \openout1 = `Masterarbeit.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
@@ -911,25 +874,23 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
 LaTeX Font Info:    ... okay on input line 92.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
 LaTeX Font Info:    ... okay on input line 92.
-
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count171
+\scratchcounter=\count172
 \scratchdimen=\dimen149
 \scratchbox=\box40
-\nofMPsegments=\count172
-\nofMParguments=\count173
+\nofMPsegments=\count173
+\nofMParguments=\count174
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count174
+\MPscratchCnt=\count175
 \MPscratchDim=\dimen150
-\MPnumerator=\count175
-\makeMPintoPDFobject=\count176
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
 \everyMPtoPDFconversion=\toks39
-) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
-)
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -938,48 +899,44 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/ltcaption.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty"
 Package: ltcaption 2013/06/09 v1.4-94 longtable captions (AR)
 )
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count177
+\c@lstlisting=\count178
 
 
 Package scrpage2 Warning: seems you are using a very small headheight.
@@ -989,118 +946,100 @@ Package scrpage2 Warning: seems you are using a very small headheight.
 (scrpage2)                into the preamble of your document.
 (scrpage2)                A better solution would be to use typearea package.
 
-(./Grundstruktur/Titelseite.tex
-LaTeX Font Info:    Try loading font information for OML+cmss on input line 18.
-
-LaTeX Font Info:    No file OMLcmss.fd. on input line 18.
+(Grundstruktur/Titelseite.tex
+LaTeX Font Info:    Try loading font information for OML+cmss on input line 20.
+LaTeX Font Info:    No file OMLcmss.fd. on input line 20.
 
 
 LaTeX Font Warning: Font shape `OML/cmss/bx/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 18.
+(Font)              for symbol `textless' on input line 20.
 
 
 LaTeX Font Warning: Font shape `OML/cmss/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 34.
+(Font)              for symbol `textless' on input line 36.
 
 <images/FH-burgenland-logo_white.png, id=1, 233.37187pt x 132.495pt>
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
-
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 49.
+ <use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 51.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 \openout4 = `Masterarbeit.ist'.
 
 
 
- <./images/FH-burgenland-logo_white.png>]) (./Grundstruktur/Vorwort.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--6
+ <./images/FH-burgenland-logo_white.png>]) (Masterarbeit.toc
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 12.
 
- []
-
-) (./Grundstruktur/Kurzzusammenfassung.tex
-File: images/FH-burgenland-logo_white.png Graphic file (type png)
-
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
-(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
-
-Overfull \vbox (36.03429pt too high) has occurred while \output is active []
-
-
-[1]) (./Grundstruktur/Abstract.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--1
-
- []
-
-
-Overfull \hbox (8.49075pt too wide) in paragraph at lines 3--1
-\OT1/cmr/m/n/10.95 Anmerkung: Der Leser der Kurz-fas-sung soll ver-ste-hen, wel
-che Prob-lem-stel-lung / Fragestel-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--1
-
- []
-
-File: images/FH-burgenland-logo_white.png Graphic file (type png)
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
-(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
-
-Overfull \vbox (36.03429pt too high) has occurred while \output is active []
-
-
-[2])
-Underfull \hbox (badness 10000) in paragraph at lines 3--105
-
- []
-
-File: images/FH-burgenland-logo_white.png Graphic file (type png)
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 105.
-(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
-
-Overfull \vbox (36.03429pt too high) has occurred while \output is active []
-
-
-[3] (./Masterarbeit.toc
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 10.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 10.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 12.
 )
 \tf@toc=\write8
 \openout8 = `Masterarbeit.toc'.
 
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
-
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 106.
+ <use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 103.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
+ [1
 
-[4
+] (Grundstruktur/Kurzzusammenfassung.tex
 
-] (./Grundstruktur/Einleitung.tex
+Package blindtext Warning: afrikaans not defined, using English instead.
+(blindtext)                 on input line 13.
+
+) (Grundstruktur/Abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--1
+
+ []
+
+File: images/FH-burgenland-logo_white.png Graphic file (type png)
+<use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
+(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
+
+Overfull \vbox (36.03429pt too high) has occurred while \output is active []
+
+ [2
+
+
+]
+
+Package blindtext Warning: afrikaans not defined, using English instead.
+(blindtext)                 on input line 8.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+File: images/FH-burgenland-logo_white.png Graphic file (type png)
+<use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 10.
+(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
+
+Overfull \vbox (36.03429pt too high) has occurred while \output is active []
+
+ [3
+
+]) (Grundstruktur/Einleitung.tex
 chapter 1.
 
 Class scrreprt Warning: \float@addtolists detected!
@@ -1117,71 +1056,54 @@ Class scrreprt Warning: \float@addtolists detected!
 (scrreprt)              a package that still implements the
 (scrreprt)              deprecated \float@addtolist interface .
 
-) (./Grundstruktur/Grundlagen.tex
-Overfull \hbox (0.45067pt too wide) in paragraph at lines 8--1
-\OT1/cmr/m/n/10.95 Hier wer-den die konkrete(n)wissenschaftliche(n) Fragestel-l
-ung(en) klar angef^^?uhrt. Neben
- []
 
+Package blindtext Warning: afrikaans not defined, using English instead.
+(blindtext)                 on input line 2.
 
+) (Grundstruktur/Grundlagen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 8--1
 
  []
 
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
 <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[1
+ [1
 
 
 ]
 chapter 2.
-
-Overfull \hbox (13.17499pt too wide) in paragraph at lines 4--7
-\OT1/cmr/m/n/10.95 Die in dieser For-matvor-lage beispiel-haft en-thal-te-nen [
-]Uberschriften sind auf die im konkreten
- []
-
-) (./Grundstruktur/Vorgehensweise.tex
+) (Grundstruktur/Vorgehensweise.tex
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
-
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
+ <use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[2
+ [2
 
 ]
 chapter 3.
-) (./Grundstruktur/EmpirischerTeil.tex
+) (Grundstruktur/EmpirischerTeil.tex
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
-
-<use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
+ <use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[3
+ [3
 
 ]
 chapter 4.
-<images/FH-burgenland-logo.png, id=36, 311.1625pt x 176.66pt>
+<images/FH-burgenland-logo.png, id=32, 311.1625pt x 176.66pt>
 File: images/FH-burgenland-logo.png Graphic file (type png)
-
-<use images/FH-burgenland-logo.png>
+ <use images/FH-burgenland-logo.png>
 Package pdftex.def Info: images/FH-burgenland-logo.png used on input line 7.
 (pdftex.def)             Requested size: 176.79945pt x 100.37537pt.
 
@@ -1189,19 +1111,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--10
 
  []
 
-(./tables/HelloWorld.tex) (./listings/HelloWorld.tex))
-(./Grundstruktur/ErgebnisseUndSchlussfolgerungen.tex
+(tables/HelloWorld.tex) (listings/HelloWorld.tex)) (Grundstruktur/ErgebnisseUndSchlussfolgerungen.tex
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
 
 <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[4
+ [4
 
  <./images/FH-burgenland-logo.png>]
 chapter 5.
@@ -1210,39 +1129,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--115
 
  []
 
-(./Grundstruktur/Zusammenfassung.tex
+(Grundstruktur/Zusammenfassung.tex
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
  <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[5
+ [5
 
 ]
 chapter 6.
+
+Package blindtext Warning: afrikaans not defined, using English instead.
+(blindtext)                 on input line 2.
+
 )
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
  <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 118.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 118.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[6
+ [6
 
 ]
 chapter 7.
-(./Masterarbeit.bbl) (./Masterarbeit.lof)
+(Masterarbeit.bbl) (Masterarbeit.lof)
 \tf@lof=\write9
 \openout9 = `Masterarbeit.lof'.
 
- (./Masterarbeit.lot)
+ (Masterarbeit.lot)
 \tf@lot=\write10
 \openout10 = `Masterarbeit.lot'.
 
@@ -1258,76 +1177,88 @@ Class scrreprt Warning: \float@listhead detected!
 (scrreprt)              Loading of package `scrhack' may help to
 (scrreprt)              avoid this warning, if you are using a
 (scrreprt)              a package that still implements the
-(scrreprt)              deprecated \float@listhead interface  on input line 142
-.
+(scrreprt)              deprecated \float@listhead interface  on input line 142.
 
-(./Masterarbeit.lol)
+(Masterarbeit.lol)
 \tf@lol=\write11
 \openout11 = `Masterarbeit.lol'.
 
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
  <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 144.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 144.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[7
-
+ [7
 
 
-] (./Grundstruktur/EidesstattlicheErklaerung.tex
+
+] (Grundstruktur/Anhang.tex
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
 
 <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 1.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
+ [8]
+chapter 8.
 
-[8])
+Package blindtext Warning: afrikaans not defined, using English instead.
+(blindtext)                 on input line 3.
 
-Package glossaries Warning: No \printglossary or \printglossaries found.
-(Remove \makeglossaries if you don't want any glossaries.)
+) (Grundstruktur/EidesstattlicheErklaerung.tex
+File: images/FH-burgenland-logo_white.png Graphic file (type png)
+ <use images/FH-burgenland-logo_white.png>
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 1.
+(pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
+
+Overfull \vbox (36.03429pt too high) has occurred while \output is active []
+
+ [9
+
+])
+
+Package glossaries Warning: No \printglossary or \printglossaries found. 
+(Remove \makeglossaries if you don't want any glossaries.) 
 This document will not have a glossary.
 
+
+Overfull \hbox (17.95021pt too wide) in paragraph at lines 6--157
+\OT1/cmr/m/n/10.95 chho-chschule, Uni-ver-sitat, Padagogische Ho-chschule oder ver-g-lei-chbare Bil-dung-sein-richtung
+)
+ []
+
 File: images/FH-burgenland-logo_white.png Graphic file (type png)
 <use images/FH-burgenland-logo_white.png>
-Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line
- 154.
+Package pdftex.def Info: images/FH-burgenland-logo_white.png used on input line 157.
 (pdftex.def)             Requested size: 84.69394pt x 48.08522pt.
 
 Overfull \vbox (36.03429pt too high) has occurred while \output is active []
 
-
-[9] (./Masterarbeit.aux)
+ [10] (Masterarbeit.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 13885 strings out of 493014
- 216779 string characters out of 6133350
- 451729 words of memory out of 5000000
- 17093 multiletter control sequences out of 15000+600000
- 12357 words of font info for 44 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 76i,14n,114p,8518b,1256s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Masterarbeit.pdf (14 pages, 133797 bytes).
+ 14061 strings out of 493367
+ 218849 string characters out of 3139905
+ 455671 words of memory out of 3000000
+ 17246 multiletter control sequences out of 15000+200000
+ 12357 words of font info for 44 fonts, out of 3000000 for 9000
+ 1127 hyphenation exceptions out of 8191
+ 76i,14n,114p,8852b,1256s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmtt10.pfb>
+Output written on Masterarbeit.pdf (14 pages, 156187 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
